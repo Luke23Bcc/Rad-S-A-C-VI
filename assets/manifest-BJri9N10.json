@@ -2,7 +2,7 @@
   "name": "Radioactive Source Activity Calculator 2.0",
   "short_name": "Activity Calc",
   "description": "An application to calculate the activity of a radioactive source based on dose rate, distance, and optional shielding. It uses the Gemini API to provide additional information about radionuclides.",
-  "start_url": ".",
+  "start_url": "/Rad-S-A-C-VI/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#06b6d4",
